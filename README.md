@@ -1,4 +1,4 @@
-# PPT 协作构建器 Skill
+# 数据咨询类型生成PPT生成 Skill
 
 一个专门用于生成**中度或重度依赖数据分析的PPT**的 Claude Code skill（v2.2）。
 
